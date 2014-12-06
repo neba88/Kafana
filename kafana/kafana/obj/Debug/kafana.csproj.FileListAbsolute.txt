@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\kafana\kafana\bin\Debug\kafana.exe.config
+d:\documents\visual studio 2013\Projects\kafana\kafana\obj\Debug\kafana.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\kafana\kafana\bin\Debug\kafana.exe
+d:\documents\visual studio 2013\Projects\kafana\kafana\bin\Debug\kafana.pdb
+d:\documents\visual studio 2013\Projects\kafana\kafana\obj\Debug\kafana.exe
+d:\documents\visual studio 2013\Projects\kafana\kafana\obj\Debug\kafana.pdb
